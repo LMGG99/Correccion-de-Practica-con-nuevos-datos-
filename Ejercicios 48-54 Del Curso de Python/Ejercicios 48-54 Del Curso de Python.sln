@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ejercicios 48-54 Del Curso de Python", "Ejercicios 48-54 Del Curso de Python\Ejercicios 48-54 Del Curso de Python.pyproj", "{8ECA8BD5-F2C2-4B6A-9835-043BC0350D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECA8BD5-F2C2-4B6A-9835-043BC0350D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECA8BD5-F2C2-4B6A-9835-043BC0350D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F64D8685-4E74-4972-B359-0D591B296F26}
+	EndGlobalSection
+EndGlobal
